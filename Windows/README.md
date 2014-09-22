@@ -1,2 +1,2 @@
-BEVOLINK Barcode Scanner Serial Port Sample for Windows
+BEVOLINK Barcode Scanner Sample for Windows
 ===============
