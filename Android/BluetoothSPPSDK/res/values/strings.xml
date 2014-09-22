@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <string name="label_no_devices_found">No devices found.</string>
+   <string name="label_scanning_for_devices">Scanning for devices</string>
+   <string name="label_select_device_to_connect">Select a device to connect</string>
+   <string name="label_scan_for_devices">SCAN FOR DEVICES</string>
+   <string name="label_bluetooth_devices">Bluetooth Devices</string>
+    
+</resources>

@@ -1,0 +1,73 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true" >
+    
+	<requestFocus />
+    
+    <TextView
+        android:id="@+id/textStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/label_no_connection"
+        android:textSize="12sp" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/layout1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textRead"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="16sp" />
+
+        </LinearLayout>
+    </ScrollView>
+    
+    
+
+    
+    <LinearLayout
+        android:id="@+id/layout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textStatus"
+        android:layout_centerHorizontal="true"
+        android:background="#3b4345">
+
+        <TextView
+            android:id="@+id/txtLabelTotalTicket"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.85"
+            android:textColor="#ffffff"
+            android:ems="10"
+            android:text="@string/label_total_ticket"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <TextView
+            android:id="@+id/txtTotalTicket"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#fe0c34"
+            android:text="0"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+        
+    </LinearLayout>
+
+</RelativeLayout>

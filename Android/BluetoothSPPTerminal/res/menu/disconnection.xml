@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="app.akexorcist.btterminal.Main" >
+
+    <item
+        android:id="@+id/menu_manual_input"
+        android:orderInCategory="100"
+        android:title="@string/menu_manual_input" />
+
+    <item
+        android:id="@+id/menu_submit_data"
+        android:orderInCategory="100"
+        android:title="@string/menu_submit_data" />
+
+</menu>
