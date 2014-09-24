@@ -24,7 +24,7 @@ The features in the sample:
 
 <img src="https://raw.githubusercontent.com/BEVOLINK/Barcode-Scanner/master/Android/AndroidSPP_SampleApp.png"/>
 
-Some SAMSUNG Android Phone's driver has bugs, the app can not work.  
+The app can not work in some SAMSUNG Android device since the driver has some bugs.  
 
 ## iOS
 <p>Only Bluetooth Wireless Scanner supports iOS via HID interface. </p>

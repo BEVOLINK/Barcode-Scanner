@@ -1,9 +1,7 @@
 Barcode Scanner SDK & Samples for Android
 ===============
-
-
 <img src="https://raw.githubusercontent.com/BEVOLINK/Barcode-Scanner/master/Android/AndroidSPP_SampleApp.png" alt="SPP" title="Android SPP">
-As known, some SAMSUNG Android Phone's driver has bugs, the app can not work.Others android devices works.
+The app can not work in some SAMSUNG Android device since the driver has some bugs. 
 
 #### Example
 
