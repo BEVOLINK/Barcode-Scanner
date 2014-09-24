@@ -10,7 +10,7 @@ Barcode Scanner
 
 
 ## Android SDK
-The SDK and sample work for Bluetooth Wireless Scanner， It demonstrates how to code in Andoid device for the barcode scanner.
+The SDK and sample work for Bluetooth Wireless Scanner， It demonstrates how to code in Android device for the barcode scanner.
 
 The features in the sample:
 - Auto connect to the Bluetooth Barcode Scanner
@@ -18,7 +18,7 @@ The features in the sample:
 - Count the total of the inputs
 
 ## iOS
-<p>Only Bluetooth Wireless Scanner supports iOS via HID interface.    </p>
+<p>Only Bluetooth Wireless Scanner supports iOS via HID interface. </p>
 <p>The BLE Scanner is developing ... </p>
 
 
