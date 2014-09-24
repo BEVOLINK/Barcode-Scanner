@@ -17,6 +17,10 @@ The features in the sample:
 - Catch the barcode code number via SPP
 - Count the total of the inputs
 
+<img src="https://raw.githubusercontent.com/BEVOLINK/Barcode-Scanner/master/Android/AndroidSPP_SampleApp.png"/>
+
+Some SAMSUNG Android Phone's driver has bugs, the app can not work.  
+
 ## iOS
 <p>Only Bluetooth Wireless Scanner supports iOS via HID interface. </p>
 <p>The BLE Scanner is developing ... </p>
