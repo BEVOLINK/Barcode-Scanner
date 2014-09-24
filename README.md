@@ -18,7 +18,7 @@ The feature in the sample:
 - Count the total of the inputs
 
 ## iOS
-<p>Only Bluetooth Wireless Scanner supports iOS via HID interface. </>
+<p>Only Bluetooth Wireless Scanner supports iOS via HID interface.    </p>
 <p>The BLE Scanner is developing ... </p>
 
 
