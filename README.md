@@ -9,7 +9,7 @@ Barcode Scanner
 -  Bluetooth Wireless Scanner
 
 ## Configure SPP mode for Barcode Scanner
-Print the commands barcode in a paper, and scan "%%BT_SPP" command by the device, then it work on SPP mode.
+Print the commands barcode in a paper, and scan "%%BT_SPP" command by the scanner device, then it work on SPP mode.
 
 <p>Download <a href="https://github.com/BEVOLINK/Barcode-Scanner/blob/master/Command%20Barcode%20For%20Bluetooth%20Scanner_EN.pdf"> barcode commands </a></p>
 
