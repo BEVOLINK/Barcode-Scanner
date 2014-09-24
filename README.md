@@ -8,6 +8,8 @@ Barcode Scanner
 -  RF 433 MHz Wireless Scanner
 -  Bluetooth Wireless Scanner
 
+## Configure SPP mode for Barcode Scanner
+Scan "%%BT_SPP" command by the device, then it work on SPP mode.
 
 ## Android SDK
 The SDK and sample work for Bluetooth Wireless Scanner， It demonstrates how to code in Android device for the barcode scanner.
