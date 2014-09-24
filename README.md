@@ -3,19 +3,19 @@ Barcode Scanner
 
 ## Bevolink Barcode Scanner versions
 
--  Cable version
--  2.4G Wireless version
--  RF 433 MHz Wireless version
--  Bluetooth Wireless version
+-  Cable Scanner
+-  2.4G Wireless Scanner
+-  RF 433 MHz Wireless Scanner
+-  Bluetooth Wireless Scanner
 
 
 ## Android SDK
-The SDK and sample is for Bluetooth Wireless version， It demonstrates how to code in Andoid device for the barcode scanner.
+The SDK and sample work for Bluetooth Wireless Scanner， It demonstrates how to code in Andoid device for the barcode scanner.
 
 The feature in the sample:
 - Auto connect to the Bluetooth Barcode Scanner
 - Catch the barcode code number via SPP
-- Count the inputs
+- Count the total of the inputs
 
 ## iOS
 <p>Only Bluetooth Wireless Scanner supports iOS via HID interface. </>
