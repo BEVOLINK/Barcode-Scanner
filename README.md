@@ -15,7 +15,7 @@ Print the commands barcode in a paper, and scan "%%BT_SPP" command by the scanne
 <p>Download for 2.4G or 433 Scanner<a href="https://github.com/BEVOLINK/Barcode-Scanner/raw/master/Command%20Barcode%202.4G_433_EN.pdf"> barcode commands </a></p>
 
 ## Android SDK
-The SDK and sample work for Bluetooth Wireless Scanner， It demonstrates how to code in Android device for the barcode scanner.
+The SDK and sample work in Bluetooth Wireless Scanner， It demonstrates how to code in Android device for the barcode scanner.
 
 The features in the sample:
 - Auto connect to the Bluetooth Barcode Scanner
