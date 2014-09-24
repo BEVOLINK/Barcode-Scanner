@@ -1,2 +1,4 @@
-BEVOLINK Barcode Scanner Sample for Windows
+Barcode Scanner Sample for Windows
 ===============
+
+Developing....
