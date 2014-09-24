@@ -11,8 +11,8 @@ Barcode Scanner
 ## Configure SPP mode for Barcode Scanner
 Print the commands barcode in a paper, and scan "%%BT_SPP" command by the scanner device, then it work on SPP mode.
 
-<p>Download <a href="https://github.com/BEVOLINK/Barcode-Scanner/blob/master/Command%20Barcode%20For%20Bluetooth%20Scanner_EN.pdf"> barcode commands </a></p>
-
+<p>Download for Bluetooth Scanner<a href="https://github.com/BEVOLINK/Barcode-Scanner/blob/master/Command%20Barcode%20For%20Bluetooth%20Scanner_EN.pdf"> barcode commands </a></p>
+<p>Download for 2.4G or 433 Scanner<a href="https://github.com/BEVOLINK/Barcode-Scanner/raw/master/Command%20Barcode%202.4G_433_EN.pdf"> barcode commands </a></p>
 
 ## Android SDK
 The SDK and sample work for Bluetooth Wireless Scanner， It demonstrates how to code in Android device for the barcode scanner.
