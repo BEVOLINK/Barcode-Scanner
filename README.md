@@ -12,7 +12,7 @@ Barcode Scanner
 ## Android SDK
 The SDK and sample work for Bluetooth Wireless Scanner， It demonstrates how to code in Andoid device for the barcode scanner.
 
-The feature in the sample:
+The features in the sample:
 - Auto connect to the Bluetooth Barcode Scanner
 - Catch the barcode code number via SPP
 - Count the total of the inputs
