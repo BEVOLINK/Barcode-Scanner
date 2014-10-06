@@ -3,10 +3,12 @@ Barcode Scanner
 
 ## Bevolink Barcode Scanner versions
 
--  Cable Scanner
--  2.4G Wireless Scanner
--  RF 433 MHz Wireless Scanner
--  Bluetooth Wireless Scanner
+-  <a href="http://www.aliexpress.com/item/USB-Laser-Barcode-Scanner-USB-Barcode-Reader-Decoder-Wire-RS232-HID-OEM-Retail-Symbol-CCD-POS/2046279627.html">USB barcode scanner</a>
+-  <a href="http://www.aliexpress.com/item/NEW-2-4G-High-Quality-Long-Laser-USB-Port-CCD-Handheld-POS-Barcode-Scanner-Reader-Handheld/2046236437.html">2.4G Wireless barcode scanner</a>
+-  <a href="http://www.aliexpress.com/item/500M-433MHZ-Barcode-Scanner-Reader-Wireless-Long-Distance-USB-Handheld-barcode-data-collector-POS-OEM-Inventory/2046279058.html">RF 433 MHz Wireless Scanner</a>
+-  <a href="http://www.aliexpress.com/item/Wireless-Bluetooth-Laser-Barcode-Scanner-Reader-Handheld-Wireless-Wired-HID-POS-for-Apple-iOS-Android-Windows/2046264504.html">Bluetooth Wireless Scanner</a>  
+
+
 
 ## Configure SPP mode for Barcode Scanner
 Print the commands barcode in a paper, and scan "%%BT_SPP" command by the scanner device, then it work on SPP mode.
